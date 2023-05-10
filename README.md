@@ -4,7 +4,7 @@
 
 ### API for social networking system.
 
-### 🛠 Utilizando:
+### 🛠 Using:
 
 The following technologies are being used in the construction of this project::
 
