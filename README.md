@@ -4,9 +4,9 @@
 
 ### API for social networking system.
 
-### 🛠 Utilizando:
+### 🛠 Using:
 
-The following technologies are being used in the construction of this project::
+The following technologies are being used in the construction of this project:
 
 - ![Go](https://img.shields.io/badge/go-%2300ADD8.svg?style=for-the-badge&logo=go&logoColor=white)
 - ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
