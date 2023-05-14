@@ -5,10 +5,10 @@
 ### API for Social Networking System.
 
 This API refers to the back-end of a social networking system written in Golang. In which you can:
--Create, update, list, and delete users
--Follow and Unfollow users
--Make posts, list posts by whom the user follows, edit and delete posts
--Like and Unfollow posts
+- Create, update, list, and delete users
+- Follow and Unfollow users
+- Make posts, list posts by whom the user follows, edit and delete posts
+- Like and Unfollow posts
 
 ### 🛠 Using:
 
@@ -20,6 +20,6 @@ The following technologies are being used in the construction of this project:
 
 The following resources were used:
 
--JSON Web Token (JWT)
--BCrypt
--SQL: Joins and Cases
+- JSON Web Token (JWT)
+- BCrypt
+- SQL: Joins and Cases
